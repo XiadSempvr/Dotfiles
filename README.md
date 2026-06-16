@@ -2,6 +2,14 @@
 
 ## First of all...
 
+## Setting up directories
+
+```
+mkdir -p .config/yabai && mkdir -p .config/skhd; touch .config/yabai/yabairc && touch .config/skhd/skhdrc
+```
+
+## Installing 
+
 Ensure that brew is up to date and then install yabai.:
 
 ```
