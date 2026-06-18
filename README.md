@@ -5,7 +5,7 @@
 ## Setting up directories
 
 ```
-mkdir -p .config/yabai && mkdir -p .config/skhd; touch .config/yabai/yabairc && touch .config/skhd/skhdrc
+mkdir -p .config/yabai && .config/skhd; touch .config/yabai/yabairc .config/skhd/skhdrc
 ```
 
 ## Installing 
