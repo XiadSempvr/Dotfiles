@@ -19,7 +19,7 @@ brew update && brew upgrade && brew cleanup; brew install koekeishiya/formulae/y
 Tap it, so brew can update it in post system updates:
 
 ```
-brew tap koekeishiya/formulae/yabai
+brew tap koekeishiya/formulae/yabai kokeishiya/formulae/skhd
 ```
 
 Then, just launch the services with launchctl or simply with brew service command:
